@@ -1,4 +1,4 @@
-Linux 5.15.0-198-generic (machine-a) 	10/19/26 	_x86_64_	(16 CPU)
+Linux 5.15.0-198-generic (host) 	10/19/26 	_x86_64_	(16 CPU)
 
 04:38:32      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
 04:38:33     1000     14757    0.00    0.00    0.00    0.00    0.00     3  vllm
