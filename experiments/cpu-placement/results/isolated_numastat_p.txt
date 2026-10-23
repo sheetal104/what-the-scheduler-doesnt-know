@@ -1,0 +1,10 @@
+
+Per-node process memory usage (in MBs) for PID 9658 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       432.51          432.51
+Stack                        0.16            0.16
+Private                    921.36          921.36
+----------------  --------------- ---------------
+Total                     1354.03         1354.03

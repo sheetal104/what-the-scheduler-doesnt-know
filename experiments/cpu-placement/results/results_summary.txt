@@ -1,0 +1,6 @@
+arm                      n  ttft_p50  ttft_p99  tpot_p50   e2e_p50   e2e_p99
+isolated              2400      64.5      85.6     15.03    1967.1    2564.9
+shared_neighbor       2403      64.6      79.7     14.74    1934.6    2257.1
+overlap_worst         2494      60.8      77.3     14.43    1884.5    2189.3
+oversubscribed        2483      62.2      75.1     14.65    1917.0    2104.3
+pinned_production     2528      58.0      77.4     14.23    1867.4    2119.9

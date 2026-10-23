@@ -1,0 +1,10 @@
+
+Per-node process memory usage (in MBs) for PID 10906 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       453.73          453.73
+Stack                        0.16            0.16
+Private                    920.52          920.52
+----------------  --------------- ---------------
+Total                     1374.41         1374.41

@@ -1,0 +1,10 @@
+{
+  "note": "GPU SM averages 58-64% across arms while TTFT/E2E tails differ by placement.",
+  "arms_gpu_sm_avg": {
+    "isolated": 58.15,
+    "shared\nneighbor": 63.3,
+    "overlap\nworst": 59.45,
+    "oversubscribed": 63.05,
+    "pinned\nproduction": 63.45
+  }
+}
