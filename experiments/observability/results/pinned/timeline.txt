@@ -1,0 +1,576 @@
+=== 2026-10-19T04:37:05+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.09          921.09
+----------------  --------------- ---------------
+Total                     1346.18         1346.18
+voluntary_ctxt_switches:	109
+nonvoluntary_ctxt_switches:	70
+schedstat: 9099549059 2095726 179
+0 %, 0 %
+0 %, 0 %
+=== 2026-10-19T04:37:07+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.09          921.09
+----------------  --------------- ---------------
+Total                     1346.18         1346.18
+voluntary_ctxt_switches:	130
+nonvoluntary_ctxt_switches:	70
+schedstat: 9103273626 2152514 200
+0 %, 0 %
+0 %, 0 %
+=== 2026-10-19T04:37:10+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.75          921.75
+----------------  --------------- ---------------
+Total                     1346.84         1346.84
+voluntary_ctxt_switches:	215
+nonvoluntary_ctxt_switches:	70
+schedstat: 9217453215 2164626 285
+58 %, 15 %
+0 %, 0 %
+=== 2026-10-19T04:37:12+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.83          921.83
+----------------  --------------- ---------------
+Total                     1346.91         1346.91
+voluntary_ctxt_switches:	386
+nonvoluntary_ctxt_switches:	70
+schedstat: 9493363760 2175648 457
+71 %, 17 %
+0 %, 2 %
+=== 2026-10-19T04:37:14+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.89          921.89
+----------------  --------------- ---------------
+Total                     1346.97         1346.97
+voluntary_ctxt_switches:	569
+nonvoluntary_ctxt_switches:	71
+schedstat: 9766203826 2226287 640
+70 %, 17 %
+0 %, 0 %
+=== 2026-10-19T04:37:16+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.91          921.91
+----------------  --------------- ---------------
+Total                     1347.00         1347.00
+voluntary_ctxt_switches:	750
+nonvoluntary_ctxt_switches:	72
+schedstat: 10044142836 2262524 823
+70 %, 17 %
+0 %, 0 %
+=== 2026-10-19T04:37:18+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.93          921.93
+----------------  --------------- ---------------
+Total                     1347.01         1347.01
+voluntary_ctxt_switches:	932
+nonvoluntary_ctxt_switches:	74
+schedstat: 10316455682 2287380 1006
+70 %, 18 %
+0 %, 2 %
+=== 2026-10-19T04:37:20+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.93          921.93
+----------------  --------------- ---------------
+Total                     1347.01         1347.01
+voluntary_ctxt_switches:	1118
+nonvoluntary_ctxt_switches:	74
+schedstat: 10591807099 2296973 1192
+71 %, 18 %
+0 %, 0 %
+=== 2026-10-19T04:37:22+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.93          921.93
+----------------  --------------- ---------------
+Total                     1347.02         1347.02
+voluntary_ctxt_switches:	1326
+nonvoluntary_ctxt_switches:	74
+schedstat: 10860131339 2342640 1400
+67 %, 15 %
+0 %, 0 %
+=== 2026-10-19T04:37:24+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.93          921.93
+----------------  --------------- ---------------
+Total                     1347.02         1347.02
+voluntary_ctxt_switches:	1511
+nonvoluntary_ctxt_switches:	75
+schedstat: 11106504953 2399390 1586
+72 %, 16 %
+0 %, 0 %
+=== 2026-10-19T04:37:26+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.95          921.95
+----------------  --------------- ---------------
+Total                     1347.04         1347.04
+voluntary_ctxt_switches:	1695
+nonvoluntary_ctxt_switches:	76
+schedstat: 11363916277 2492290 1772
+66 %, 15 %
+0 %, 0 %
+=== 2026-10-19T04:37:28+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.95          921.95
+----------------  --------------- ---------------
+Total                     1347.04         1347.04
+voluntary_ctxt_switches:	1884
+nonvoluntary_ctxt_switches:	76
+schedstat: 11616411869 2513413 1961
+70 %, 17 %
+0 %, 0 %
+=== 2026-10-19T04:37:31+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.95          921.95
+----------------  --------------- ---------------
+Total                     1347.04         1347.04
+voluntary_ctxt_switches:	2073
+nonvoluntary_ctxt_switches:	76
+schedstat: 11872877016 2584309 2150
+72 %, 17 %
+0 %, 0 %
+=== 2026-10-19T04:37:33+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.95          921.95
+----------------  --------------- ---------------
+Total                     1347.04         1347.04
+voluntary_ctxt_switches:	2265
+nonvoluntary_ctxt_switches:	76
+schedstat: 12133328883 2584309 2341
+72 %, 17 %
+0 %, 0 %
+=== 2026-10-19T04:37:35+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.95          921.95
+----------------  --------------- ---------------
+Total                     1347.04         1347.04
+voluntary_ctxt_switches:	2453
+nonvoluntary_ctxt_switches:	76
+schedstat: 12392531103 2672175 2530
+70 %, 18 %
+0 %, 0 %
+=== 2026-10-19T04:37:37+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.95          921.95
+----------------  --------------- ---------------
+Total                     1347.04         1347.04
+voluntary_ctxt_switches:	2643
+nonvoluntary_ctxt_switches:	77
+schedstat: 12640166234 2706675 2720
+63 %, 16 %
+0 %, 0 %
+=== 2026-10-19T04:37:39+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.96          921.96
+----------------  --------------- ---------------
+Total                     1347.04         1347.04
+voluntary_ctxt_switches:	2805
+nonvoluntary_ctxt_switches:	77
+schedstat: 12899837122 2752207 2882
+61 %, 15 %
+0 %, 0 %
+=== 2026-10-19T04:37:41+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.96          921.96
+----------------  --------------- ---------------
+Total                     1347.04         1347.04
+voluntary_ctxt_switches:	3017
+nonvoluntary_ctxt_switches:	77
+schedstat: 13126535231 2778943 3094
+68 %, 16 %
+0 %, 0 %
+=== 2026-10-19T04:37:43+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.96          921.96
+----------------  --------------- ---------------
+Total                     1347.05         1347.05
+voluntary_ctxt_switches:	3198
+nonvoluntary_ctxt_switches:	77
+schedstat: 13384813369 2787093 3275
+62 %, 14 %
+0 %, 0 %
+=== 2026-10-19T04:37:45+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.96          921.96
+----------------  --------------- ---------------
+Total                     1347.05         1347.05
+voluntary_ctxt_switches:	3381
+nonvoluntary_ctxt_switches:	77
+schedstat: 13647589276 2833946 3458
+63 %, 14 %
+0 %, 0 %
+=== 2026-10-19T04:37:47+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	3560
+nonvoluntary_ctxt_switches:	78
+schedstat: 13892534290 2839602 3638
+63 %, 14 %
+0 %, 0 %
+=== 2026-10-19T04:37:49+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	3734
+nonvoluntary_ctxt_switches:	80
+schedstat: 14160167069 2908149 3814
+62 %, 14 %
+0 %, 0 %
+=== 2026-10-19T04:37:52+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	3907
+nonvoluntary_ctxt_switches:	80
+schedstat: 14407823459 2983051 3987
+62 %, 14 %
+0 %, 0 %
+=== 2026-10-19T04:37:54+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	4080
+nonvoluntary_ctxt_switches:	81
+schedstat: 14652707480 3029553 4161
+64 %, 15 %
+0 %, 0 %
+=== 2026-10-19T04:37:56+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	4252
+nonvoluntary_ctxt_switches:	81
+schedstat: 14887400424 3083335 4333
+62 %, 14 %
+0 %, 0 %
+=== 2026-10-19T04:37:58+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	4429
+nonvoluntary_ctxt_switches:	82
+schedstat: 15143625861 3119135 4511
+62 %, 14 %
+0 %, 0 %
+=== 2026-10-19T04:38:00+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	4603
+nonvoluntary_ctxt_switches:	82
+schedstat: 15381370276 3140018 4685
+63 %, 15 %
+0 %, 0 %
+=== 2026-10-19T04:38:02+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	4779
+nonvoluntary_ctxt_switches:	83
+schedstat: 15628117501 3191641 4863
+62 %, 14 %
+0 %, 2 %
+=== 2026-10-19T04:38:04+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	4955
+nonvoluntary_ctxt_switches:	84
+schedstat: 15871942115 3287322 5040
+62 %, 15 %
+0 %, 0 %
+=== 2026-10-19T04:38:06+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	5127
+nonvoluntary_ctxt_switches:	84
+schedstat: 16115574827 3341729 5211
+62 %, 14 %
+0 %, 0 %
+=== 2026-10-19T04:38:08+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	5305
+nonvoluntary_ctxt_switches:	84
+schedstat: 16355068037 3425403 5389
+69 %, 16 %
+0 %, 0 %
+=== 2026-10-19T04:38:10+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	5494
+nonvoluntary_ctxt_switches:	85
+schedstat: 16598317235 3442492 5579
+49 %, 12 %
+0 %, 0 %
+=== 2026-10-19T04:38:13+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	5682
+nonvoluntary_ctxt_switches:	85
+schedstat: 16858862266 3510245 5767
+70 %, 17 %
+0 %, 2 %
+=== 2026-10-19T04:38:15+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	5873
+nonvoluntary_ctxt_switches:	87
+schedstat: 17132080037 3609270 5961
+68 %, 17 %
+0 %, 0 %
+=== 2026-10-19T04:38:17+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	6068
+nonvoluntary_ctxt_switches:	88
+schedstat: 17393212350 3644297 6156
+67 %, 17 %
+0 %, 0 %
+=== 2026-10-19T04:38:19+00:00 pid=14757 ===
+
+Per-node process memory usage (in MBs) for PID 14757 (vllm)
+                           Node 0           Total
+                  --------------- ---------------
+Huge                         0.00            0.00
+Heap                       424.92          424.92
+Stack                        0.16            0.16
+Private                    921.98          921.98
+----------------  --------------- ---------------
+Total                     1347.07         1347.07
+voluntary_ctxt_switches:	6270
+nonvoluntary_ctxt_switches:	88
+schedstat: 17660640632 3716840 6362
+67 %, 17 %
+0 %, 0 %
